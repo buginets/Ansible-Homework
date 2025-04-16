@@ -1,0 +1,4 @@
+[dev]
+hw1 ansible_host=ec2-user@98.81.198.9
+hw2 ansible_host=ec2-user@3.86.32.253
+hw3 ansible_host=ec2-user@3.95.188.76
